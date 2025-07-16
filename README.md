@@ -35,9 +35,6 @@ I enjoy using tools like Python, Excel, SQL, and Power BI to solve problems and 
 - Roles in business development, market research, and client engagement  
 
 ---
- 
-
----
 
 ## 🎓 Education  
 **PGDM + PGPM** – Unitedworld School of Business (AIMA)  

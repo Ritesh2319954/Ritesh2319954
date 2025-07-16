@@ -14,7 +14,10 @@ I enjoy using tools like Python, Excel, SQL, and Power BI to solve problems and 
 - **Data & Analytics**: Power BI, Excel, SQL, Python (basic), SAP MM  
 - **Project & Business Tools**: Inventory Management, Demand Forecasting, Supplier & Logistics Coordination  
 - **Creative Tools**: Adobe Photoshop, Premiere Pro, CorelDraw, Canva, Blender  
-- **Certifications**:  
+
+---
+
+## 📜 Certifications  
   - 📊 *Introduction to Analytics & Excel* – **Coding Ninjas** *(May 2025)*  
   - 📈 *Data Visualization with Power BI* – **Coding Ninjas**  
   - ✅ *Lean Six Sigma Green Belt* – KPMG  

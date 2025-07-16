@@ -35,11 +35,7 @@ I enjoy using tools like Python, Excel, SQL, and Power BI to solve problems and 
 - Roles in business development, market research, and client engagement  
 
 ---
-
-## 📊 Featured Projects *(To be added on GitHub)*  
-- 📈 **Power BI Sales Dashboard**  
-- 🧹 **Data Cleaning with Pandas**  
-- 🔍 **E-commerce SQL Analysis**  
+ 
 
 ---
 
